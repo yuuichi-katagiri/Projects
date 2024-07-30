@@ -1,0 +1,31 @@
+id="tribute-info"
+id="tribute-link" -- wikipedia
+#img-div,
+#image,
+#img-caption,
+
+
+
+
+
+
+Css properties for main image:-
+Your #image should use max-width and height properties to resize responsively, relative to the width of its parent
+element, without exceeding its original size
+
+css for image element:
+1. img element{
+display:block;
+}
+Your img element should be centered within its parent element
+
+Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy
+Coding!
+
+-------------------
+
+
+
+Waiting:Your #image should have a max-width of 100%.
+Waiting:Your #image should have a height of auto.
+Waiting:Your #image should be centered within its parent.
